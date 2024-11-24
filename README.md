@@ -1,4 +1,4 @@
-## Hi there 🖕
+## Hi there 
 
 <!--
 **Fortnex/Fortnex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+- 🌱 I’m currently learning "Computer Science"
 - ⚡ Fun fact: Idk what im doing
