@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 --> 
 - 🌱 I’m currently learning "Computer Science"
 - ⚡ Fun fact: Idk what im doing
-- 🔭 I’m currently working on my own website
