@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 - 🌱 I’m currently learning "Computer Science"
-- ⚡ Fun fact: Idk what im doing
